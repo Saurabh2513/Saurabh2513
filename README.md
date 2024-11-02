@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Yadav</h1>
 <h3 align="center">A passionate Android Application developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh2513&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh2513" /> </p>
-
 - 🌱 I’m currently learning **Flutter, Kotlin, corejava, c++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saurabh2513](https://github.com/Saurabh2513)
