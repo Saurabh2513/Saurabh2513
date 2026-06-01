@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh Yadav</h1>
 <h3 align="center">A passionate Android Application developer</h3>
 
-- 🌱 I’m currently learning **Flutter, Kotlin, corejava, c++**
+- 🌱 I’m currently learning **Flutter, Kotlin, corejava
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saurabh2513](https://github.com/Saurabh2513)
 
-- 📫 How to reach me **sagaryadav12369@gmail.com**
+- 📫 How to reach me **sagaryadav12369@gmail.com , saurabhy1408@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1P_K5x8CcH-Yilg9BSjLDz2icP1tg7chm?usp=sharing](https://drive.google.com/drive/folders/1P_K5x8CcH-Yilg9BSjLDz2icP1tg7chm?usp=sharing)
 
