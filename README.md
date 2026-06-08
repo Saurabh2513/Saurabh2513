@@ -21,7 +21,6 @@
 - 👯 Looking to collaborate on **Open Source mobile apps**
 - 💬 Ask me about **Android, Flutter, Kotlin, Java**
 - 📫 How to reach me: **sagaryadav12369@gmail.com**
-- ⚡ Fun fact: **I love turning coffee into code ☕→💻**
 
 <br clear="both"/>
 
